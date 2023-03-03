@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "116363192413",
+    "project_id": "tsf-authentication-13102",
+    "storage_bucket": "tsf-authentication-13102.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:116363192413:android:0ac4519327ea55f0e205b4",
+        "android_client_info": {
+          "package_name": "com.example.tsfauthentication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "116363192413-0nd8fsqila8gdgoc3ej8domiu4btp5p0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAW4Ocqhw-STkB33usod2gRMg-gzu5g6j8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "116363192413-0nd8fsqila8gdgoc3ej8domiu4btp5p0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

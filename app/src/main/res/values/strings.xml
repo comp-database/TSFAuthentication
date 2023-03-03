@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">TSF Authentication</string>
+    <string name="Github1">Authenticate With Github</string>
+</resources>
